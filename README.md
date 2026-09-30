@@ -12,17 +12,15 @@ qui consiste à cloner `git-lab.bundle` et résoudre 5 situations Git.
 
 ## Situation
 
-Le fichier `git-lab.bundle` **n'a pas été fourni** par le surveillant
-pendant l'épreuve. Sans ce bundle, il est impossible d'exécuter les
-5 situations demandées (clonage du dépôt pré-constitué, résolution
+Le fichier `git-lab.bundle` **était disponible sur la plateforme** avant
+d'être retiré, mais je n'ai pas pu le télécharger à temps pour exécuter
+les 5 situations demandées (clonage du dépôt pré-constitué, résolution
 des conflits, réécriture d'historique, etc.).
 
 ## Décision
 
-Le dépôt est créé et public pour rester accessible au correcteur,
-mais reste vide en attendant le `git-lab.bundle`.
-
-Dès que le bundle est fourni, le contenu sera poussé ici.
+Le dépôt est créé et public pour rester accessible au correcteur.
+Il contient ce README qui documente la situation.
 
 ## Contact
 

@@ -12,7 +12,7 @@ qui consiste à cloner `git-lab.bundle` et résoudre 5 situations Git.
 
 ## Situation
 
-Le fichier `git-lab.bundle` **était disponible sur la plateforme** avant
+Le fichier `git-lab.bundle` était disponible sur la plateforme avant
 d'être retiré, mais je n'ai pas pu le télécharger à temps pour exécuter
 les 5 situations demandées (clonage du dépôt pré-constitué, résolution
 des conflits, réécriture d'historique, etc.).
